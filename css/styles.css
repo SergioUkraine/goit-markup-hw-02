@@ -199,12 +199,12 @@ body {
 
 
 .filter-button {
-    background: var(--secondary-br-color);
-    color: var(--secondary-header-color);
     font-weight: 500;
     font-size: 16px;
     line-height: 1.62;
     text-align: center;
+    background: var(--secondary-br-color);
+    color: var(--secondary-header-color);
 }
 
 .filter-button:hover {
