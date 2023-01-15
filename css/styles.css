@@ -179,8 +179,7 @@ body {
 }
 
 /* Portfolio page (main) */
-.portfolio {}
-
+/* Section 1 (Portfolio) */
 .portfolio h1 {
     display: none;
 }
